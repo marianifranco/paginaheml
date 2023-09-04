@@ -2,4 +2,7 @@ p {text-aling:center;, font-size: 20 px;
 background: # cccccc;}
 H1{font-size: 50 px; text-align: center; background-color: aqua;}
 body{background-color: black ;}
+#imagem1 {
+ width: 100%;
+}
 
